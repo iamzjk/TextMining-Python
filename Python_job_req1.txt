@@ -1,0 +1,33 @@
+Python Developer 
+Mondo  - New York, NY
+Title Python Developer
+Duration PERMANENT
+Location NYC (Midtown)
+RateSalary DOE
+Start Date ASAP
+Job Spec
+Responsibilities
+•	Senior-level developer who wants to work closely with a fast paced team of business and technical collaborators to build complex, data intensive health informatics web applications
+•	You should be an active participant in the open source community, enjoy solving interesting problems, and have the ability to comprehend and execute on a product vision rather than just functional units
+•	Our tech team is highly collaborative and you should expect to be involved in architectural decisions
+Requirements
+•	Extensive and current experience with Python
+•	Significant experience with any SQL-based RDBMS, PostgreSQL preferred
+•	Linux focused, shell proficient, lives in terminals
+•	Experience with version control systems (Mercurial and Subversion preferred), continuous integration, pair programming, and doing regular code reviews.
+•	Experience collaborating with product management and other non-technical staff to understand product marketing requirements and translate into functionaltechnical requirements
+•	Bachelor's Degree
+•	8+ years professional experience building web-based software with open source technologies
+•	10+ years software development or general hacking experience
+•	Strong intrapersonal skills and ability to work collaboratively with non-technical staff
+•	Effectively verbal and written communications skills
+•	Comfort presenting and defending ideas and opinions in a collaborative environment
+Preferred Skills
+•	Amazon AWS experience (plus)
+•	Healthcare
+•	Experience building parallel processing applications (multiprocessing, queue based, etc.)
+•	Experience working with big data (and delivering it elegantly in a web based solution)
+Job Type Full-time
+Required experience
+•	Python 3 years
+
