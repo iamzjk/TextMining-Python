@@ -1,0 +1,38 @@
+SQL Developer 
+Indus Software Solutions Inc. - Pennington, NJ 
+$70 an hour - Contract
+Job Title: SQL Developer
+Location: Pennington, NJ
+Duration: 18 months
+Pay: 70.00/hr W2
+
+MUST WORK ON W2 NO CORP TO CORP
+
+Description:
+Description:
+
+Bank of America is looking for a Sr. SQL Developer
+10+ years of experience. Administers, maintains, develops and implements policies and procedures for ensuring the security and integrity of the company database.
+Implements data models and database designs, data access and table maintenance codes; resolves database performance issues, database capacity issues, replication, and other distributed data issues.
+Familiar with standard concepts, practices, and procedures within a particular field. Performs a variety of tasks.
+A degree of creativity and latitude is required. Skill sets include but are not limited to: DB2 Informix, Tandem SQL DDBMS, Oracle, Teradata RDBMS, Sybase, SQL Server, Assembler, CICS, IMS, Network, Telecommunication, Applications, Security, Internet, Database, Wireless, Enterprise, Data Warehousing, Teradata RDBMS.
+Candidate must have production support experience with managing SQL Server 2005, 2008, 2008 R2 and 2012 versions, Cluster, Always ON set up.
+Thanks,
+
+Hrinish Patalay
+Indus Software Solutions Inc,
+C: 925-888-9322
+D: 925-905-9900 X 103
+E: hrinish(at)indusss.com
+
+Job Type: Contract
+
+Salary: $70.00 /hour
+
+Required education:
+
+Bachelor's
+Required experience:
+
+SQL Developer: 7 years
+Total IT: 10 years
