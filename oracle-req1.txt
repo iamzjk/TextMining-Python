@@ -1,0 +1,35 @@
+Senior Oracle Database Developer 
+Softweb Solutions Inc - Parsippany, NJ
+- Must have strong Oracle PL/SQL application development skills and excellent knowledge of Stored Procedures, Functions, Packages, Triggers, Views,Materialized Views, Cursors, and XML features and writing and tuning complex SQL queries.
+- Additionally, experience with autonomous transactions and error handling is highly desirable.
+- Experience in Implementing data models and database designs
+- Experienced with Stored procedure creation/debugging/ optimization/tuning
+- Experience with UNIX shell and CVS is helpful
+- Experience with Oracle 12c is desirable
+- Writing and creating data load scripts and stored procedures; ensuring that data is loaded in a timely manner daily
+- Working with application developers to assist in database design, query tuning, index assignment, and trigger and procedure creation
+- Ability to research and trouble-shoot application problems using PL/SQL programming skills
+- Ensuring that the integrity of company databases is maintained
+- Actively helping our Data Integrity team reconcile data
+- Excellent communication skills; works well in a team environment
+
+Required Skills / Competencies:
+- 5-8+ years Software Development experience
+- 5-8+ years Designing and developing applications on Oracle RDBMS
+- 5+ years of experience in complex stored procedure creation and using performance tuning techniques
+- 4+ years of experience in creating and maintaining SQL code for medium to large OLTP applications
+
+Agile Methodology programming experience is a plus
+
+Job Type: Full-time
+
+Job Location:
+
+Parsippany, NJ
+Required education:
+
+Bachelor's
+Required experience:
+
+Oracle PL/SQL: 5 years
+
